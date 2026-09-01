@@ -100,7 +100,7 @@ Questionnaire Design → Data Collection → Data Recording → Data Cleaning �
 
 ## Dashboard
 
-![Career Readiness & AI Awareness Dashboard](images/dashboard.png)
+<img width="1324" height="539" alt="IZU" src="https://github.com/user-attachments/assets/a809ef7b-73ca-4bcb-90bc-b48308e8ddc2" />
 
 ## Conclusion
 

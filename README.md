@@ -56,7 +56,8 @@ The dataset contains 298 responses from SS1 and SS2 students collected through a
 - Barriers to career goals
 - AI awareness and familiarity
 
-[View Dataset](data/student_career_ai_awareness.csv)
+## Dataset used
+<a href="https://github.com/Izudatahub/Mary-Hanney-Secondary-School-SS1-SS2-Career-Readiness-AI-Awareness./blob/main/SURVEY%20DATA%20MHSS%20GIRLS.xlsx">SURVEY DATA MHSS GIRLS</a>
 
 ## Key Questions / KPIs
 
